@@ -1,7 +1,7 @@
 #include "header.h"
 
-elm_fuz wawancara(int w){
-    int rendah_bawah, rendah_atas, sedang_bawah, sedang_atas;
+elm_fuz wawancara(float w){
+    float rendah_bawah, rendah_atas, sedang_bawah, sedang_atas;
     rendah_bawah = 35;
     rendah_atas = 45;
     sedang_bawah = 75;
@@ -46,8 +46,8 @@ elm_fuz wawancara(int w){
     return a;
 }
 
-elm_fuz test_tulis(int t){
-    int rendah_bawah, rendah_atas, sedang_bawah, sedang_atas;
+elm_fuz test_tulis(float t){
+    float rendah_bawah, rendah_atas, sedang_bawah, sedang_atas;
     rendah_bawah = 30;
     rendah_atas = 45;
     sedang_bawah = 80;

@@ -1,11 +1,11 @@
 # depslib dependency file v1.0
-1523188977 source:c:\users\asus\documents\matkul\semester 2\lab ai\ai\wawancara_tulis_ai\main.cpp
+1523353752 source:c:\users\asus\documents\matkul\semester 2\lab ai\ai\wawancara_tulis_ai\main.cpp
 	"header.h"
 
-1523188322 c:\users\asus\documents\matkul\semester 2\lab ai\ai\wawancara_tulis_ai\header.h
+1523353760 c:\users\asus\documents\matkul\semester 2\lab ai\ai\wawancara_tulis_ai\header.h
 	<string>
 	<iostream>
 
-1523189720 source:c:\users\asus\documents\matkul\semester 2\lab ai\ai\wawancara_tulis_ai\header.cpp
+1523353741 source:c:\users\asus\documents\matkul\semester 2\lab ai\ai\wawancara_tulis_ai\header.cpp
 	"header.h"
 

@@ -2,13 +2,15 @@
 
 int main()
 {
-    int ww, tt;
-
-    cout << "Masukan nilai wawancara = " << endl;
-    cin>>ww;
-    cout<<"Masukan nilai test tulis = "<<endl;
-    cin>>tt;
-    inference(wawancara(ww),test_tulis(tt));
+    float ww, tt;
+    while ((ww != 0) && (tt != 0)){
+        cout << "Masukan nilai wawancara = " << endl;
+        cin>>ww;
+        cout<<"Masukan nilai test tulis = "<<endl;
+        cin>>tt;
+        inference(wawancara(ww),test_tulis(tt));
+        cout<<endl;
+    }
 
     return 0;
 }

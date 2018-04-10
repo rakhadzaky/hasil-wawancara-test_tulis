@@ -11,8 +11,8 @@ struct elm_fuz{
     float nilai;
 };
 
-elm_fuz wawancara(int w);
-elm_fuz test_tulis(int t);
+elm_fuz wawancara(float w);
+elm_fuz test_tulis(float t);
 void inference(elm_fuz w, elm_fuz t);
 
 #endif // HEADER_H_INCLUDED
